@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/theproblemsolver1/LEETCODE/tree/master/0182-duplicate-emails) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/theproblemsolver1/LEETCODE/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/theproblemsolver1/LEETCODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
